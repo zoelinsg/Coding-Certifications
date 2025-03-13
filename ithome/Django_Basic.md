@@ -1,0 +1,8 @@
+# iT邦幫忙技術文章
+## 🔹 Django RESTful API 入門筆記
+- **[Django RESTful API 入門筆記 - 1 - Django 和 RESTful API 介紹](https://ithelp.ithome.com.tw/articles/10369706)**
+- **[Django RESTful API 入門筆記 - 2 - 環境設置與專案建立](https://ithelp.ithome.com.tw/articles/10369715)**
+- **[Django RESTful API 入門筆記 - 3 - Django檔案架構](https://ithelp.ithome.com.tw/articles/10369748)**
+- **[Django RESTful API 入門筆記 - 4 - 串接 SQLite / MySQL](https://ithelp.ithome.com.tw/articles/10369815)**
+
+**🚀 陸續更新中！** 

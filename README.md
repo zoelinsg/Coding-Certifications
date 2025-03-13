@@ -13,4 +13,7 @@
 - **[Free Foundational C# with Microsoft](https://www.freecodecamp.org/certification/zoelinsg/foundational-c-sharp-with-microsoft)**
 
 
-🚀 **持續更新中，未來會新增更多考證筆記！** 
+## 技術部落格
+-**[iT邦幫忙](https://ithelp.ithome.com.tw/users/20169048)**
+
+**陸續更新中！** 🚀
