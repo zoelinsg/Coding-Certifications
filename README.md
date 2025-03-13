@@ -4,7 +4,7 @@
 
 ---
 
-## 🏆 認證證書
+## 認證證書
 
 ### HackerRank 認證
 - **[SQL (Basic) Certificate](https://www.hackerrank.com/certificates/0255576b6174)**
@@ -18,4 +18,5 @@
 ## 技術部落格
 - **[iT邦幫忙](https://ithelp.ithome.com.tw/users/20169048)**
 
-**🚀 陸續更新中！** 
+
+**陸續更新中！** 
