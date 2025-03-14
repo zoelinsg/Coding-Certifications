@@ -8,6 +8,8 @@
 
 ### HackerRank 認證
 - **[SQL (Basic) Certificate](https://www.hackerrank.com/certificates/0255576b6174)**
+- **[SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/135b48c959b0)**
+- **[Python (Basic) Certificate](https://www.hackerrank.com/certificates/a56fd44b5ea9)**
 - **[Software Engineer Intern Certificate](https://www.hackerrank.com/certificates/052efa001d2b)**
 
 ### freeCodeCamp 認證
