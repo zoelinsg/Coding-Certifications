@@ -5,5 +5,6 @@
 - **[Django RESTful API 入門筆記 - 3 - Django檔案架構](https://ithelp.ithome.com.tw/articles/10369748)**
 - **[Django RESTful API 入門筆記 - 4 - 串接 SQLite / MySQL](https://ithelp.ithome.com.tw/articles/10369815)**
 - **[Django RESTful API 入門筆記 - 5 - 串接 PostgreSQL](https://ithelp.ithome.com.tw/articles/10369816)**
+- **[Django RESTful API 入門筆記 - 6 - 串接 MongoDB](https://ithelp.ithome.com.tw/articles/10369813)**
 
 **🚀 陸續更新中！** 
