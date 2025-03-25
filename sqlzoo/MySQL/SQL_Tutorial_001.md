@@ -1,8 +1,8 @@
 # SQL Tutorial
+
 ## MySQL 解法
 
-### SELECT basics
-來源：[SQLZoo SELECT basics](https://www.sqlzoo.net/wiki/SELECT_basics)
+### [SQLZoo SELECT basics](https://www.sqlzoo.net/wiki/SELECT_basics)
 
 ```sql
 -- 1. 查詢德國人口
@@ -18,8 +18,7 @@ SELECT name, area FROM world
 WHERE area BETWEEN 200000 AND 250000;
 ```
 
-### SELECT names
-來源：[SQLZoo SELECT names](https://www.sqlzoo.net/wiki/SELECT_names)
+### [SQLZoo SELECT names](https://www.sqlzoo.net/wiki/SELECT_names)
 
 ```sql
 -- 1. 名稱以 Y 開頭
