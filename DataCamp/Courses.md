@@ -5,6 +5,7 @@
 
 #### **Git & GitHub**
 - **[Introduction to Git](https://www.datacamp.com/completed/statement-of-accomplishment/course/4bf4dcd9bf95c351a71590b2e869e65fd49195bb)**
+- **[Intermediate Git](https://www.datacamp.com/completed/statement-of-accomplishment/course/5c6682ebec45f769f3db67d2f94a455e1330f287)**
 - **[Introduction to GitHub Concepts](https://www.datacamp.com/completed/statement-of-accomplishment/course/62cb0b93860531217cb60712b5676736e805020d)**
 
 #### **Python**

@@ -16,6 +16,8 @@
 ### freeCodeCamp 認證
 - **[Free Foundational C# with Microsoft](https://www.freecodecamp.org/certification/zoelinsg/foundational-c-sharp-with-microsoft)**
 
+### AI 認證
+- **[經濟部產業發展署產業AI人才完訓證書]()**
 ---
 
 ## 技術部落格
