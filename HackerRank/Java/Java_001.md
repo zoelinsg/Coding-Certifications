@@ -1,7 +1,9 @@
 # HackerRank Java
 ## Java8 解法 Part 1
 
-https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true
+- [Welcome to Java](https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true)
+
+```java
 public class Solution {
 
     public static void main(String[] args) {
@@ -9,8 +11,11 @@ public class Solution {
         System.out.println("Hello, Java.");
     }
 }
+```
 
-https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true
+- [Java Stdin and Stdout 1](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true)
+
+```java
 import java.util.*;
 
 public class Solution {
@@ -26,8 +31,11 @@ public class Solution {
         System.out.println(c);
     }
 }
+```
 
-https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=true
+-[java-stdin-stdout](https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=true)
+
+```java
 import java.util.Scanner;
 
 public class Solution {
@@ -44,4 +52,4 @@ public class Solution {
         System.out.println("Int: " + i);
     }
 }
-
+```
