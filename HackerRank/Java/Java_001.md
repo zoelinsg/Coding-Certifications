@@ -33,7 +33,7 @@ public class Solution {
 }
 ```
 
--[java-stdin-stdout](https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=true)
+- [java-stdin-stdout](https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=true)
 
 ```java
 import java.util.Scanner;
