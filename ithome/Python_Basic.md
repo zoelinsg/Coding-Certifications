@@ -8,5 +8,6 @@
 - **[Python 入門筆記 - 6 - 註解、變數](https://ithelp.ithome.com.tw/articles/10369795)**
 - **[Python 入門筆記 - 7 - Python 保留字與內建函式](https://ithelp.ithome.com.tw/articles/10369799)**
 - **[Python 入門筆記 - 8 - Python 資料型態](https://ithelp.ithome.com.tw/articles/10369839)**
+- **[Python 入門筆記 - 9 - 輸入 Input](https://ithelp.ithome.com.tw/articles/10369908)**
 
 **🚀 陸續更新中！** 
