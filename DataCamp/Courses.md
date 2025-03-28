@@ -21,3 +21,4 @@
 #### **ChatGPT**
 - **[Understanding ChatGPT](https://www.datacamp.com/completed/statement-of-accomplishment/course/3f1c36c6d71c3659118d9b21d506db4d19530332)**
 - **[Introduction to ChatGPT](https://www.datacamp.com/completed/statement-of-accomplishment/course/df997710dc0e95a5ac4d478e1f37bf36eea775f6)**
+- **[Understanding Prompt Engineering](https://www.datacamp.com/completed/statement-of-accomplishment/course/cd8d5ef33f7df103a8b45bd3ffbbb3de719a6b4b)**
