@@ -29,9 +29,9 @@
 - **[Introduction to Repository Management](https://github.com/zoelinsg/skills-introduction-to-repository-management)**  
   管理 repo 權限、設定、健康度指標，建立可維護專案架構。
 
-- **[Getting started with GitHub Copilot](https://github.com/zoelinsg/skills-github-copilot)**  
+- **[Getting started with GitHub Copilot](https://github.com/zoelinsg/skills-getting-started-with-github-copilot)**  
   練習如何使用 Copilot AI 輔助寫程式，加速開發流程。
 
-- **[Your first extension for GitHub Copilot](https://github.com/zoelinsg/skills-your-first-copilot-extension)**  
+- **[Your first extension for GitHub Copilot](https://github.com/zoelinsg/skills-your-first-extension-for-github-copilot)**  
   製作 Copilot 擴充元件，了解如何自訂提示行為與擴充能力。
 
